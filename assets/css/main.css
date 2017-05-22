@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,600');
+
+body{
+	background-color: white;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#contendores{
+}
+
+.contendor1{
+	float: left;
+	width: 100%;
+}
+
+.contendor1 p{
+background-color: #ff0;
+height: 50px;
+margin: 0;
+padding: 10px;
+} 
+
+.contendor1 .es{
+	background-color: #ed2251;
+}
+/*#ed2251;

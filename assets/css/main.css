@@ -3,9 +3,11 @@
 body{
 	background-color: white;
 	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
 }
 
 #contendores{
+	display: block;
 }
 
 .contendor1{
@@ -23,4 +25,38 @@ padding: 10px;
 .contendor1 .es{
 	background-color: #ed2251;
 }
-/*#ed2251;
+
+/* contenedor dos */
+.contendor2{
+	float: left;
+	width: 15%;
+}
+
+.contendor2 p{
+background-color: #ff0;
+height: 50px;
+margin: 0;
+padding: 10px;
+} 
+
+.contendor2 .es{
+	background-color: #ed2251;
+}
+
+/* contenedor tres */
+.contendor3{
+float: left;
+display: inline;
+}
+
+.contendor3 p{
+background-color: #ff0;
+height: 50px;
+margin: 0;
+padding: 10px;
+} 
+
+.contendor3 .es{
+	background-color: #ed2251;
+
+}
